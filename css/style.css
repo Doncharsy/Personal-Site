@@ -73,9 +73,7 @@ header{
     opacity: 0;
     animation: fade-in 1s ease 6s 1 forwards;
 }
-.txt-type{
-    font-family: 'Silkscreen', cursive;
-}
+
 
 .title {
     position: absolute;
